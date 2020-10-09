@@ -1,3 +1,7 @@
 oh my god really!
+<<<<<<< HEAD
 yeah really!
 hey what can i do ok
+=======
+yeah can you imagine...
+>>>>>>> 71b328e2824b52b1dfb8974a16537f401515cceb
